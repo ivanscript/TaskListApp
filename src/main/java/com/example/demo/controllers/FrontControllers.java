@@ -11,4 +11,11 @@ public class FrontControllers {
         return "index";
         //Este es el nombre de la plantilla thymeleaf o html que queremos devolver
     }
+/*
+    @GetMapping("/task1")
+    public String tasks(){
+        return "tasks";
+    }
+
+ */
 }
